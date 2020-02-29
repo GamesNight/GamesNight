@@ -1,5 +1,5 @@
 # GamesNight
-##Support for Games Night
+## Support for Games Night
 
 This site does not contain any code that relates to the Games Night Mac application.
 
