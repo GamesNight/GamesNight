@@ -1,6 +1,6 @@
 # GamesNight
 ## Support for Games Night
 
-This site does not contain any code that relates to the Games Night Mac application.
+This site does not contain any code that relates to the Games Night Mac application. It's purpose is to use the functionality of GitHub to provide support functionality such as issues.
 
-It's purpose is to use the functionality of GitHub to provide support functionality such as issues.
+If you have any suggestions, enchancements or bug please raise them -> https://github.com/GamesNight/GamesNight/issues
